@@ -1,0 +1,1 @@
+export default function Hero(){ return (<section class='p-20 bg-gray-100 text-center text-4xl font-bold'>Fast • Reliable • Affordable Appliance Repair</section>);} 

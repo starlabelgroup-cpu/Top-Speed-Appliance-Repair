@@ -1,0 +1,1 @@
+export default function Contact(){ return <h1 class='p-10 text-3xl'>Contact</h1>; }

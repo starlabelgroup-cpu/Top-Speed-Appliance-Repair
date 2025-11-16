@@ -1,0 +1,1 @@
+export default function Testimonials(){ return (<section class='p-10 bg-gray-200'><h2 class='text-3xl font-bold mb-4'>Customer Reviews</h2><p>⭐⭐⭐⭐⭐ Excellent service!</p></section>);} 

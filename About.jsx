@@ -1,0 +1,1 @@
+export default function About(){ return <h1 class='p-10 text-3xl'>About Us</h1>; }

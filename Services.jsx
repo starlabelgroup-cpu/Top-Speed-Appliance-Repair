@@ -1,0 +1,1 @@
+export default function Services(){ return (<section class='p-10'><h2 class='text-3xl font-bold mb-4'>Our Services</h2><ul class='list-disc pl-6'><li>Washer Repair</li><li>Dryer Repair</li><li>Refrigerator Repair</li><li>Oven & Stove Repair</li></ul></section>);} 

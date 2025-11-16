@@ -1,0 +1,1 @@
+export default function Footer(){ return (<footer class='bg-black text-white text-center py-4'>© 2025 Top Speed Appliance.</footer>);} 
