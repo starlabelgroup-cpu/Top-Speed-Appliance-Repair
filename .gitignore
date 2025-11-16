@@ -1,0 +1,32 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+.cache/
+.vite/
+.turbo/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+/.DS_Store
+.DS_Store
+.idea/
+.vscode/
+.history/
+*.local
+/.parcel-cache
+/.next
+/.nuxt
+/.sass-cache
+public/build/
+*.log
+*.pem
+
+# Optional: lockfiles you may want to keep but often ignored
+# yarn.lock
+# pnpm-lock.yaml
