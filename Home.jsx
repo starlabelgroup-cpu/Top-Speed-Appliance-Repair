@@ -1,9 +1,9 @@
-import Header from '../components/Header/Header.jsx';
-import Footer from '../components/Footer/Footer.jsx';
-import Hero from '../components/Hero/Hero.jsx';
-import Services from '../components/Services/Services.jsx';
-import Testimonials from '../components/Testimonials/Testimonials.jsx';
-import ContactForm from '../components/ContactForm/ContactForm.jsx';
+import Header from './Header.jsx';
+import Footer from './Footer.jsx';
+import Hero from './Hero.jsx';
+import Services from './Services.jsx';
+import Testimonials from './Testimonials.jsx';
+import ContactForm from './ContactForm.jsx';
 
 export default function Home(){
  return (<>
